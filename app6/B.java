@@ -10,5 +10,6 @@ class B
 		System.out.println(j);
 		System.out.println(k);
 		System.out.println(m);
+		System.out.println('\u0000');
 	}
 }

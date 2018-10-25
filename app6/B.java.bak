@@ -2,7 +2,7 @@ class B
 {
 	static int i;
 	static double j;
-	static boolean k
+	static boolean k;
 	static char m;
 	public static void main(String[] args) 
 	{
